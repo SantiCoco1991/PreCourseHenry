@@ -1,2 +1,1 @@
-# PreCourseHenry
-Este es repositorio de prueba
+Este proyecto es una prueba de como clonarlo desde github para que quede local 
